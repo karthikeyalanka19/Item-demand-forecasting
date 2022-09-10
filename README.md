@@ -36,7 +36,7 @@ To predict future sales of items by considering the 90 day sale.
 
 ### Stay tuned
 
-* The model will be deloyed via streamlit and heroku for better understanding with visualization and the link will be updated in this README file.
+* The model will be deployed via streamlit and heroku for better understanding with visualization and the link will be updated in this README file.
 
 
 
